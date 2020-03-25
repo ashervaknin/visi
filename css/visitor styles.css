@@ -1,0 +1,31 @@
+#title {
+  background-color:#ff4c68;
+}
+
+h1 {
+
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+
+.container-fluid {
+  padding: 0 5% ;
+
+
+}
+
+.maintext{
+  color: #ffffff;s
+  font-family: 'Montserrat';
+    font-weight: bold;
+    margin-bottom: 10%;
+    margin-top: 5%;
+
+}
+
+.phone-img{
+  margin-top: 5%;
+  height: 87%;
+
+}
